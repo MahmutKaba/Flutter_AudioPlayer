@@ -6,7 +6,7 @@ A new Flutter project.
 
 This project is a starting point for playing **Audio Files** and using **Clean Code**.
 
-## using
+## Using
 
 - Audio Player Packet
 - Refactoring repeat codes
